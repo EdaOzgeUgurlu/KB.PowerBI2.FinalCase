@@ -1,4 +1,6 @@
 # 🛒 Power BI Satış Verisi Analizi Projesi
+Proje google drive linkinden de çalıştırabilirsiniz 
+https://drive.google.com/drive/u/0/folders/1boYmJwK6vFly-HD9CK32QTmOOOjA3GyB
 
 Bu proje, satış verilerini Power BI kullanarak analiz etmek, anlamlı içgörüler elde etmek ve kullanıcı dostu görselleştirmeler ile sunmak amacıyla hazırlanmıştır. Çalışma kapsamında çeşitli grafikler, kart görselleri ve filtreler kullanılmış; veri hazırlama sürecinden görsel raporlamaya kadar olan tüm adımlar detaylandırılmıştır.
 

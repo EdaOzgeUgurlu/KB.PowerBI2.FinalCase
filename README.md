@@ -215,6 +215,10 @@ Her yeni veriyle rapor kolayca güncellenebilir (veri kaynağı güncellemesiyle
 
 Geliştirmeye açık bir projedir. Kullanıcı giriş sayfası, canlı veriler, mobil uyum gibi özellikler gelecekte eklenebilir.
 
+### 📝 Notlar
+Proje google drive linkinden de çalıştırabilirsiniz 
+https://drive.google.com/drive/u/0/folders/1boYmJwK6vFly-HD9CK32QTmOOOjA3GyB
+
 ### 👩‍💻 Hazırlayan
 Eda Özge Uğurlu
 📧 edaozge@example.com
